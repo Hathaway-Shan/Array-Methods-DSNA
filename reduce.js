@@ -1,4 +1,6 @@
 // INPUT: the array of brands from data.js
+import { brands } from './data';
+import { dogs } from './data';
 // OUTPUT: an array of all the sneakers brands
 // REQS: use .reduce
 

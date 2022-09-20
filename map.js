@@ -1,4 +1,6 @@
 // INPUT: the array of countries from data.js
+import { countries } from './data';
+import { brands } from './data';
 // OUTPUT: an array of the names
 // REQS: use .map
 
